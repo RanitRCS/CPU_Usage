@@ -24,7 +24,7 @@ Install these packages
 ## 📷 Screenshot
 
 
-![cpu](https://user-images.githubusercontent.com/94731013/166144915-1e7f8c0a-0a7c-428d-a73b-956ae565cf6c.png)
+![cpu-small](https://user-images.githubusercontent.com/94731013/166144915-1e7f8c0a-0a7c-428d-a73b-956ae565cf6c.png)
 
 
 ## Creater's Note:
