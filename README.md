@@ -1,2 +1,2 @@
-# Plotting Real-Time CPU usage using matplotlib and python
+# Plotting Real-Time CPU Usage Using Matplotlib and Python
 hhhh
